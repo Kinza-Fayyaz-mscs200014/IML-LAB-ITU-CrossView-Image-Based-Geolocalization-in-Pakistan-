@@ -1,5 +1,4 @@
 # CrossView-Image-Based-Geolocalization-in-Pakistan
-# Towards Low-Cost and Efficient Malaria Detection
 <b>Paper title:</b> Towards low-cost and efficient malaria detection.<br>
 <b>Paper accepted for: </b> CVPR 2022.<br>
 <b>Preprint</b> available <a href = "https://arxiv.org/pdf/2111.13656.pdf">here</a>.<br>
