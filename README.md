@@ -1,7 +1,7 @@
 # Cross View Image Based Geolocalization in Pakistan
 <b>Research Topic:</b> Cross View Image Based Geolocalization in Pakistan.<br>
 <b>Dataset</b> available <a href = "https://drive.google.com/drive/folders/1LXXdwoJCEbaLp40OCQC5P3CiUtX2xrmg?usp=share_link" target="_blank">here</a><br>
-<b>Dataset Name </b>CV Pakistan(CV PAK) Dataset<br>
+<b>Dataset Name </b>Cross View Pakistan(CV PAK) Dataset<br>
 
 In this project, we tried to make malaria detection easily possible at a low cost. We present M5-malaria Dataset which is the first-ever dataset that is across microscopes and across magnifications. Malaria, a fatal but curable disease claims hundreds of thousands of lives every year. Early and correct diagnosis is vital to avoid health complexities, however, it depends upon the availability of costly microscopes and trained experts to analyze blood-smear slides. Deep learning-based methods have the potential to not only decrease the burden of experts but also improve diagnostic accuracy on low-cost microscopes. However, this is hampered by the absence of a reasonable size dataset. One of the most challenging aspects is the reluctance of the experts to annotate the dataset at low magnification on low-cost microscopes. We present a dataset to further the research on malaria microscopy over the low-cost microscopes at low magnification. Our large-scale dataset consists of images of blood-smear slides from several malaria-infected patients, collected through microscopes at two different cost spectrums and multiple magnifications. Malarial cells are annotated for the localization and life-stage classification task.
 <br>
