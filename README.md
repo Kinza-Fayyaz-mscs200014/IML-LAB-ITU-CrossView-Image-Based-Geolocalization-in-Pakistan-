@@ -30,10 +30,7 @@ There are still many limitations present in our research. As I discussed earlier
   <li>Removed repetitive panoramaS.</li>
   <li>Removed indoor panoramas.</li>
   <li>Removed night panoramas.</li>
-<ul>
-There are still many limitations present in our research. As I discussed earlier we made a large and diverse dataset cross view Pakistan CV PAK that are covering the different 40 cities of Pakistan. The dataset includes two types of views: a 360° ground view and its corresponding satellite image. There are some noises present in the panorama images. When we downloaded the dataset we removed some noises in the panorama images that are given below: 
 The several sorts of noise that still found in panoramic images are listed below:
-<ul>
   <li>Appearance of black patches in the panorama view.</li>
   <li>Unwanted advertisements at the top or below the panorama view</li>
   <li> Many images include reflections of different objects.</li>
