@@ -9,20 +9,19 @@ In this research, we working on cross-view image-based geolocation that pertains
 <img src="sample image.jpg">
 
 # Dataset Details
-We proposed a new dataset cross-view Pakistan (CV PAK) that includes Pakistan's 360° angled Panoramas and satellite images. Our dataset includes the 4 provinces and 40 cities of Pakistan. The cities name that includes in our dataset are Lahore, Multan, Dera-ismail-khan, Mian-wali, Murree, Faisalabad, Rahim-yar-khan, Gujranwala, Layyah, Gujrat, Jhang, Rawalpindi, Sahiwal, Sargodha, Sialkot, Mandi-bahauddin, Jhelum, Attock, Islamabad, Karachi, Shikarpur, Hyderabad, Mirpur Khas, Sukkur, Nawabshah, Quetta, Gwadar, Sibi, Chaman, Turbat, Mastung, Peshawar, Abbottabad, lakki-marwat, Mansehra, Sawat, Mardan, Nowshera, Malakand and Muzaffarabad. We are using the pro version of “Street View Download 360” Application for collecting the 360° angled panoramic Images and for downloading high-resolution satellite images we used the "SAS Planet" application. There is almost 40 days = 1440 hours = 86400 minutes = almost 2 months required for collecting the dataset.
+We proposed a new dataset cross-view Pakistan (CV PAK) that includes Pakistan's 360° angled Panoramas and satellite images. We gathered 11,632 panoramas views and their corresponding 11,632 satellite views from Pakistan. Our dataset includes the 4 provinces and 40 cities of Pakistan. The cities name that includes in our dataset are Lahore, Multan, Dera-ismail-khan, Mian-wali, Murree, Faisalabad, Rahim-yar-khan, Gujranwala, Layyah, Gujrat, Jhang, Rawalpindi, Sahiwal, Sargodha, Sialkot, Mandi-bahauddin, Jhelum, Attock, Islamabad, Karachi, Shikarpur, Hyderabad, Mirpur Khas, Sukkur, Nawabshah, Quetta, Gwadar, Sibi, Chaman, Turbat, Mastung, Peshawar, Abbottabad, lakki-marwat, Mansehra, Sawat, Mardan, Nowshera, Malakand and Muzaffarabad. We are using the pro version of “Street View Download 360” Application for collecting the 360° angled panoramic Images and for downloading high-resolution satellite images we used the "SAS Planet" application. There is almost 40 days = 1440 hours = 86400 minutes = almost 2 months required for collecting the dataset.
 
 ### Dataset Link
 You can download our dataset from <a href="https://drive.google.com/drive/folders/1LXXdwoJCEbaLp40OCQC5P3CiUtX2xrmg?usp=share_link">here</a>. <br>
-Total size of the dataset is 23GB. For ease in downloading, we have put it in smaller divisions that you will see in the link.
+Total size of the dataset is 20GB. 
 
 ### Dataset Contents
-In the above link you should find M5-Malaria Dataset folder and in the folder you will find three subfolders:
+In the above link you should find CV PAK DATASET folder and in the folder you will find two subfolders:
 <ul>
-  <li>Images</li>
-  <li>Splits</li>
-  <li>Annotations</li>
+  <li>Satellite_images</li>
+  <li>Panorama_images</li>
  </ul>
- You will find complete details in <a href="https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022/blob/main/M5-Malaria_Dataset_Contents.txt">this file</a>.
+Satellite images includes 11,632 satellite views that are collected from 40 cities of Pakistan. Panorama images folder includes 11,632 panoramas views.
 
 ### Visualizing the Annotations
 In order to visualize the annotations, you can pick some sample images and their annotations from the dataset and run the file <a href = "https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022/blob/main/Plot_Annotationss.ipynb">Plot_Annotationss.ipynb</a> on them. Or you can run <a href="https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022/blob/main/plot_annotationss.py">plot_annotationss.py</a>.
