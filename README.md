@@ -31,6 +31,7 @@ There are still many limitations present in our research. As I discussed earlier
   <li>Removed indoor panoramas.</li>
   <li>Removed night panoramas.</li>
   
+  
 The several sorts of noise that still found in panoramic images are listed below:
   
   <li>Appearance of black patches in the panorama view.</li>
