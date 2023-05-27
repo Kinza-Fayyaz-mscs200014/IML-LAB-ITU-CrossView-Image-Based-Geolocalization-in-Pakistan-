@@ -23,7 +23,14 @@ In the above link you should find CV PAK DATASET folder and in the folder you wi
  </ul>
 Satellite images includes 11,632 satellite views that are collected from 40 cities of Pakistan. Panorama images folder includes 11,632 panoramas views.
 
-### Visualizing the Annotations
+### Limitations of CV PAK Dataset
+There are still many limitations present in our research. As I discussed earlier we made a large and diverse dataset cross view Pakistan CV PAK that are covering the different 40 cities of Pakistan. The dataset includes two types of views: a 360° ground view and its corresponding satellite image. There are some noises present in the panorama images. When we downloaded the dataset we removed some noises in the panorama images that are given below: 
+<ul>
+<li>Removed the multiple clicked panoramas Images of the same location.</li>
+<li>Removed repetitive panoramaS.</li>
+<li>Removed indoor panoramas.</li>
+<li>Removed night panoramas.</li>
+<ul>
 
 ## Contact
 In case of any question regarding dataset, please email us:
