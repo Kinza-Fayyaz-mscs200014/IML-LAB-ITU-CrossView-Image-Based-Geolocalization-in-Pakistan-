@@ -1,1 +1,1 @@
-# IML-LAB-ITU-CrossView-Image-Based-Geolocalization-in-Pakistan-
+CrossView-Image-Based-Geolocalization-in-Pakistan
