@@ -3,7 +3,7 @@
 <b>Dataset</b> available <a href = "https://drive.google.com/drive/folders/1LXXdwoJCEbaLp40OCQC5P3CiUtX2xrmg?usp=share_link" target="_blank">here</a><br>
 <b>Dataset Name </b>Cross View Pakistan(CV PAK) Dataset<br>
 
-In this research, we working on cross-view image-based geolocation that pertains to matching two images from diverse perspectives - one from a panorama viewpoint and the other from a satellite or aerial viewpoint. It is a process in which we compare a ground image that is a 360-degree panoramic image with their corresponding GPS-tagged satellite image to determine their location. There is a huge similarity gap between these two views. Recently, research has achieved extortionate accuracy on existing datasets such as CV USA, CV ACT, and VIGOR. Previous datasets do not cover the dataset of developing countries. It mostly covers the dataset of developed countries. Street views(Panoramas) are in high resolution which is not available in many countries in the world. There are around 55 countries that are not covering Google street view according to the given below source. Source: <a href = "https://en.wikipedia.org/wiki/Google_Street_View" target="_blank">here</a><br> Different datasets are required to cover almost the entire world, including Asia, Africa,India, Malaysia and Europe. Existing datasets cover countries like America and Australia. Everyone worked on the existing datasets and applied their method to it and achieved high accuracy on it. Existing datasets do not accurately reflect real-world environments as they lack images with dense crowds of people and objects and are comparatively simple to work with. By Filling the gap in the existing dataset we proposed a new large and scalable dataset in Pakistan that’s name cross view Pakistan (CV PAK). This dataset is very diverse and includes various images covering both rural and urban areas. Our contribution to this research is that we proposed a new dataset cross-view Pakistan (CV PAK) that is covering the cross-view images in Pakistan. Then we implement five previous methods on this dataset to compute the results. 
+In this research, we working on cross-view image-based geolocation that pertains to matching two images from diverse perspectives - one from a panorama viewpoint and the other from a satellite or aerial viewpoint. It is a process in which we compare a ground image that is a 360-degree panoramic image with their corresponding GPS-tagged satellite image to determine their location. There is a huge similarity gap between these two views. Recently, research has achieved extortionate accuracy on existing datasets such as CV USA, CV ACT, and VIGOR. Previous datasets do not cover the dataset of developing countries. It mostly covers the dataset of developed countries. Street views(Panoramas) are in high resolution which is not available in many countries in the world. There are around 55 countries that are not covering Google street view according to the given below <a href = "https://en.wikipedia.org/wiki/Google_Street_View" target="_blank">source.</a><br> Different datasets are required to cover almost the entire world, including Asia, Africa,India, Malaysia and Europe. Existing datasets cover countries like America and Australia. Everyone worked on the existing datasets and applied their method to it and achieved high accuracy on it. Existing datasets do not accurately reflect real-world environments as they lack images with dense crowds of people and objects and are comparatively simple to work with. By Filling the gap in the existing dataset we proposed a new large and scalable dataset in Pakistan that’s name cross view Pakistan (CV PAK). This dataset is very diverse and includes various images covering both rural and urban areas. Our contribution to this research is that we proposed a new dataset cross-view Pakistan (CV PAK) that is covering the cross-view images in Pakistan. Then we implement five previous methods on this dataset to compute the results. 
 
 <br>
 <img src="sample image.jpg">
@@ -31,7 +31,9 @@ There are still many limitations present in our research. As I discussed earlier
   <li>Removed indoor panoramas.</li>
   <li>Removed night panoramas.</li>
 </ul>
+
 The several sorts of noise that still found in panoramic images are listed below:
+
 <ul>
   <li>Appearance of black patches in the panorama view.</li>
   <li>Unwanted advertisements at the top or below the panorama view</li>
@@ -39,7 +41,9 @@ The several sorts of noise that still found in panoramic images are listed below
   <li>Many panoramas are distorted and deformed. Objects are stretched. Car \& bikes are overstretched.</li>
   <li>Some panoramas are blurred in different patches of the image.</li>
 </ul>
-The several sorts of noise that still found in panoramic images are listed below:
+
+In the future, we will try to eliminate the current noises in panorama images. 
+
   
 ## Contact
 In case of any question regarding dataset, please email us:
