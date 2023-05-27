@@ -30,15 +30,15 @@ There are still many limitations present in our research. As I discussed earlier
   <li>Removed repetitive panoramaS.</li>
   <li>Removed indoor panoramas.</li>
   <li>Removed night panoramas.</li>
-<ul>
+</ul>
 The several sorts of noise that still found in panoramic images are listed below:
-  
+<ul>
   <li>Appearance of black patches in the panorama view.</li>
   <li>Unwanted advertisements at the top or below the panorama view</li>
   <li> Many images include reflections of different objects.</li>
   <li>Many panoramas are distorted and deformed. Objects are stretched. Car \& bikes are overstretched.</li>
   <li>Some panoramas are blurred in different patches of the image.</li>
-<ul>
+</ul>
 The several sorts of noise that still found in panoramic images are listed below:
   
 ## Contact
