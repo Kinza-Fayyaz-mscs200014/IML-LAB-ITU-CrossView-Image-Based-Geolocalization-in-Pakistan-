@@ -1,5 +1,5 @@
 # Cross View Image Based Geo-localization in Pakistan
-<b>Research Topic:</b> Cross View Image Based Geolocalization in Pakistan.<br>
+<b>Research Topic:</b> Cross View Image Based Geo-localization in Pakistan.<br>
 <b>Dataset:</b> available <a href = "https://drive.google.com/drive/folders/1LXXdwoJCEbaLp40OCQC5P3CiUtX2xrmg?usp=share_link" target="_blank">here.</a><br>
 <b>Dataset Name:</b>Cross View Pakistan(CV PAK) Dataset.<br>
 
